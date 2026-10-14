@@ -21,10 +21,10 @@ and most of my recent work is on AI products with agents inside.
 |---|---|---|---|
 | [**Action AI**](https://www.actionai.co/) | Enterprise low-code platform for multi-agent AI workflows | Graph-based workflow editor, front end for the reliability rules that route failed agent outputs, dataset mapping and evaluation runs | React, TypeScript, React Flow, Zustand |
 | [**Mosadad**](https://www.mosadad.org/) | Accident recovery and insurance claims system | Full stack, CQRS backend, role-based access and audit trail | .NET, Angular, RxJS |
+| [**Edara**](https://www.edara.com/home) | Book summary platform with 10,000+ text and audio summaries | Reader with PDF and EPUB rendering, text-to-speech and right-to-left Arabic layouts | React, ePub.js |
 | [**Eddie's Portal**](https://eddies-entertainment.com/) | Events and booking platform for venues, talents and shows | Angular front end with SSR, booking wizards, admin panel with media uploads, SEO, Python backend | Angular, Tailwind, Spartan UI, Python, Cloudflare |
 | **RakMun** | Mobile app on iOS and Android | Full stack, plus Scrum Master for a 5-person team | React Native, Expo, Node.js, MongoDB |
 | **Traffic recognition** | Real-time computer vision for driver assistance | YOLO model at 30+ FPS, 94% lane and crosswalk accuracy, Flask and Node.js APIs | Python, YOLO, AWS |
-| [**Edara**](https://www.edara.com/home) | Book summary platform with 10,000+ text and audio summaries | Reader with PDF and EPUB rendering, text-to-speech and right-to-left Arabic layouts | React, ePub.js |
 
 
 <sub>These are client and company products, so the code lives in private repos. The products are live at the links above.</sub>
