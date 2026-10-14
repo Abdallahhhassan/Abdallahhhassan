@@ -19,7 +19,7 @@ and most of my recent work is on AI products with agents inside.
 
 | Project | What it is | What I built | Stack |
 |---|---|---|---|
-| [**Action AI**](https://www.actionai.co/) | Enterprise low-code platform for multi-agent AI workflows | Graph-based workflow editor, front end for the reliability rules that route failed agent outputs, dataset mapping and evaluation runs | React, TypeScript, React Flow, Zustand |
+| [**Action AI**](https://www.actionai.co/) | Enterprise low-code platform for multi-agent AI workflows | Graph-based workflow editor, front end for the reliability rules that route failed agent outputs, dataset mapping and evaluation runs | React, TypeScript, React Flow, Zustand, ShadCN |
 | [**Mosadad**](https://www.mosadad.org/) | Accident recovery and insurance claims system | Full stack, CQRS backend, role-based access and audit trail | .NET, Angular, RxJS |
 | [**Edara**](https://www.edara.com/home) | Book summary platform with 10,000+ text and audio summaries | Reader with PDF and EPUB rendering, text-to-speech and right-to-left Arabic layouts | React, ePub.js |
 | [**Eddie's Portal**](https://eddies-entertainment.com/) | Events and booking platform for venues, talents and shows | Angular front end with SSR, booking wizards, admin panel with media uploads, SEO, Python backend | Angular, Tailwind, Spartan UI, Python, Cloudflare |
@@ -46,6 +46,13 @@ and most of my recent work is on AI products with agents inside.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+
+**UI libraries**<br>
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Spartan UI](https://img.shields.io/badge/Spartan_UI-1F2937?style=flat-square)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=flat-square)
+![Angular Material](https://img.shields.io/badge/Angular_Material-3F51B5?style=flat-square&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Backend and data**<br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
