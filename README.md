@@ -27,7 +27,7 @@ and most of my recent work is on AI products with agents inside.
 | **Traffic recognition** | Real-time computer vision for driver assistance | YOLO model at 30+ FPS, 94% lane and crosswalk accuracy, Flask and Node.js APIs | Python, YOLO, AWS |
 
 
-<sub>These are client and company products, so the code lives in private repos. The products are live at the links above.</sub>
+<sub>These are client and company products, so the code lives in private repos. Some links lead to the company's commercial site rather than the product itself, because the products are under NDA and not public yet.</sub>
 
 ### Tech stack
 
